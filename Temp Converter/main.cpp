@@ -8,7 +8,7 @@ int main()
 	int	fahrenheit;
 	int choice;
 
-	cout << "Which conversion would you like to do?\n" << endl;
+	cout << "What conversion would you like to do?\n" << endl;
 	cout << "1. Convert C to F" << endl;
 	cout << "2. Convert F to C" << endl;
 	cin >> choice;
